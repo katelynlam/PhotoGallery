@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 35px;
+  position: flex;
+  justify-content: center;
+  margin: 5%;
+}
+p {
+  font-family: 'Questrial', sans-serif;
+  font-size: 20px
+}
+.container {
+  position: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 5px dotted pink;
+}
+img {
+  width: 140px;
+  height: 140px;
+  border: 5px solid white;
+  object-fit: cover
+  justify-content: center;
+}
